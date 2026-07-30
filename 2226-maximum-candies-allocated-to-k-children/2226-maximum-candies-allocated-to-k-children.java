@@ -9,7 +9,8 @@ class Solution {
         return count >= k;
     }
     public int maximumCandies(int[] arr, long k) {
-        long low=1L,high=12000000000L;
+        long low=1L,high=0;
+        for(int ele:arr) high=Math.max(high,ele);
         long ans=0;
         while(low<=high){
             long mid=low+(high-low)/2;
