@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/rajsharma-cse/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/rajsharma-cse/DSA/tree/master/0875-koko-eating-bananas) |
 | [1248-count-number-of-nice-subarrays](https://github.com/rajsharma-cse/DSA/tree/master/1248-count-number-of-nice-subarrays) |
+| [1760-minimum-limit-of-balls-in-a-bag](https://github.com/rajsharma-cse/DSA/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 ## Binary Search
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/rajsharma-cse/DSA/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/rajsharma-cse/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/rajsharma-cse/DSA/tree/master/0875-koko-eating-bananas) |
+| [1760-minimum-limit-of-balls-in-a-bag](https://github.com/rajsharma-cse/DSA/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 ## Matrix
 |  |
 | ------- |
