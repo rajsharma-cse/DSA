@@ -2,10 +2,10 @@ class Solution {
     public boolean possible(int[] arr,int max,int splt){
         long count=0;
         for(int i=0;i<arr.length;i++){
-            if(arr[i]>=splt){
+            // if(arr[i]>=splt){
                 count+=arr[i]/splt;
                 if(arr[i]% splt == 0) count--;
-            }
+            // }
         }
         return count<=max;
     }
