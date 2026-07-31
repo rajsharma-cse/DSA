@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/rajsharma-cse/DSA/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/rajsharma-cse/DSA/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/rajsharma-cse/DSA/tree/master/0231-power-of-two) |
 | [1248-count-number-of-nice-subarrays](https://github.com/rajsharma-cse/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 ## Sliding Window
@@ -75,4 +76,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/rajsharma-cse/DSA/tree/master/0231-power-of-two) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/rajsharma-cse/DSA/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/rajsharma-cse/DSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
