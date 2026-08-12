@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/rajsharma-cse/DSA/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/rajsharma-cse/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/rajsharma-cse/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0547-number-of-provinces](https://github.com/rajsharma-cse/DSA/tree/master/0547-number-of-provinces) |
 | [0802-find-eventual-safe-states](https://github.com/rajsharma-cse/DSA/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/rajsharma-cse/DSA/tree/master/0841-keys-and-rooms) |
 ## Binary Tree
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/rajsharma-cse/DSA/tree/master/0101-symmetric-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rajsharma-cse/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0547-number-of-provinces](https://github.com/rajsharma-cse/DSA/tree/master/0547-number-of-provinces) |
 | [0802-find-eventual-safe-states](https://github.com/rajsharma-cse/DSA/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/rajsharma-cse/DSA/tree/master/0841-keys-and-rooms) |
 ## Binary Lifting
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/rajsharma-cse/DSA/tree/master/0547-number-of-provinces) |
 | [0802-find-eventual-safe-states](https://github.com/rajsharma-cse/DSA/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/rajsharma-cse/DSA/tree/master/0841-keys-and-rooms) |
 ## Topological Sort
@@ -189,4 +192,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/rajsharma-cse/DSA/tree/master/0802-find-eventual-safe-states) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/rajsharma-cse/DSA/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
