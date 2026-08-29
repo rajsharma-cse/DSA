@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/rajsharma-cse/DSA/tree/master/0239-sliding-window-maximum) |
+| [0743-network-delay-time](https://github.com/rajsharma-cse/DSA/tree/master/0743-network-delay-time) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/rajsharma-cse/DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/rajsharma-cse/DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/rajsharma-cse/DSA/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/rajsharma-cse/DSA/tree/master/0743-network-delay-time) |
 | [0802-find-eventual-safe-states](https://github.com/rajsharma-cse/DSA/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/rajsharma-cse/DSA/tree/master/0841-keys-and-rooms) |
 | [0994-rotting-oranges](https://github.com/rajsharma-cse/DSA/tree/master/0994-rotting-oranges) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/rajsharma-cse/DSA/tree/master/0200-number-of-islands) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rajsharma-cse/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0547-number-of-provinces](https://github.com/rajsharma-cse/DSA/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/rajsharma-cse/DSA/tree/master/0743-network-delay-time) |
 | [0802-find-eventual-safe-states](https://github.com/rajsharma-cse/DSA/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/rajsharma-cse/DSA/tree/master/0841-keys-and-rooms) |
 ## Binary Lifting
@@ -189,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/rajsharma-cse/DSA/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/rajsharma-cse/DSA/tree/master/0743-network-delay-time) |
 | [0802-find-eventual-safe-states](https://github.com/rajsharma-cse/DSA/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/rajsharma-cse/DSA/tree/master/0841-keys-and-rooms) |
 ## Topological Sort
@@ -209,4 +213,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/rajsharma-cse/DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/rajsharma-cse/DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/rajsharma-cse/DSA/tree/master/0547-number-of-provinces) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/rajsharma-cse/DSA/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/rajsharma-cse/DSA/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
