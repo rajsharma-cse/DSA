@@ -1,16 +1,16 @@
 class Solution {
-    ArrayList<Integer> arr=new ArrayList<>(Collections.nCopies(10000,-1));
+    int[] dp;
     public int fun(int n){
-        if(n==0 || n==1){
-            return 1;
-        }else if(n<0){
-            return 0;
-        }
-        if(arr.get(n)!=-1) return arr.get(n);
-        arr.set(n,fun(n-1)+fun(n-2));
-        return arr.get(n);
+        if(n==0) return 1;
+        if(n<0) return 0;
+        if(dp[n]!=-1) return dp[n];
+        int one=fun(n-1);
+        int two=fun(n-2);
+        return dp[n]=one+two;
     }
     public int climbStairs(int n) {
+        dp=new int[n+1];
+        Arrays.fill(dp,-1);
         return fun(n);
     }
 }
