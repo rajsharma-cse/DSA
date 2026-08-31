@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/rajsharma-cse/DSA/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/rajsharma-cse/DSA/tree/master/0130-surrounded-regions) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rajsharma-cse/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0198-house-robber](https://github.com/rajsharma-cse/DSA/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/rajsharma-cse/DSA/tree/master/0200-number-of-islands) |
 | [0239-sliding-window-maximum](https://github.com/rajsharma-cse/DSA/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rajsharma-cse/DSA/tree/master/0240-search-a-2d-matrix-ii) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/rajsharma-cse/DSA/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/rajsharma-cse/DSA/tree/master/0085-maximal-rectangle) |
+| [0198-house-robber](https://github.com/rajsharma-cse/DSA/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/rajsharma-cse/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/rajsharma-cse/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [1143-longest-common-subsequence](https://github.com/rajsharma-cse/DSA/tree/master/1143-longest-common-subsequence) |
