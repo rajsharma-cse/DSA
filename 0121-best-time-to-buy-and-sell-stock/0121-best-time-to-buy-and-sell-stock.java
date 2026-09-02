@@ -15,10 +15,26 @@ class Solution {
             return dp[i][k]=Math.max(sell,nosell);
         }
     }
-    public int maxProfit(int[] prices) {
-        int n=prices.length;
+    public int maxProfit(int[] arr) {
+        int n=arr.length;
         dp=new int[n+1][3];
-        for(int row[]:dp) Arrays.fill(row,-1);
-        return fun(prices,0,2);
+        // for(int row[]:dp) Arrays.fill(row,-1);
+
+        for(int i=n-1;i>=0;i--){
+            for(int j=2;j>=0;j--){
+                if(j==2){
+                    int buy=dp[i+1][j-1]-arr[i];
+                    int nobuy=dp[i+1][j];
+                    dp[i][j]=Math.max(buy,nobuy);
+                }else if(j==1){
+                    int sell=dp[i+1][j-1]+arr[i];
+                    int nosell=dp[i+1][j];
+                    dp[i][j]=Math.max(sell,nosell);
+                }
+            }
+        }
+        return dp[0][2];
+
+        // return fun(arr,0,2);
     }
 }
