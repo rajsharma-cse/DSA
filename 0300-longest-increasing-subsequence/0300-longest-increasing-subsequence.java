@@ -1,20 +1,18 @@
 class Solution {
-    int[][] dp;
-    public int fun(int[] arr,int i,int prev ){
-        if(i==arr.length){
-            return 0;
+    public int lengthOfLIS(int[] arr) {
+        int n=arr.length;
+        int[] dp=new int[n];
+        Arrays.fill(dp,1);
+
+        int res=1;
+        for(int i=1;i<n;i++){
+            for(int j=i;j>=0;j--){
+                if(arr[j]<arr[i]){
+                    dp[i]=Math.max(dp[i],dp[j]+1);
+                }
+            }
+            res=Math.max(res,dp[i]);
         }
-        if( dp[i][prev+1]!=-1) return dp[i][prev+1];
-        if(prev == -1 || arr[i]>arr[prev]){
-            int pick=1+fun(arr,i+1,i);
-            int notpick=fun(arr,i+1,prev);
-            return dp[i][prev+1]= Math.max(pick,notpick);
-        }else return dp[i][prev+1]=fun(arr,i+1,prev);
-    }
-    public int lengthOfLIS(int[] nums) {
-        int n=nums.length;
-        dp=new int[n+1][n+1];
-        for(int[] r:dp) Arrays.fill(r,-1);
-        return fun(nums,0,-1);
+        return res;
     }
 }
