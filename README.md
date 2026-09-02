@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/rajsharma-cse/DSA/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/rajsharma-cse/DSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/rajsharma-cse/DSA/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/rajsharma-cse/DSA/tree/master/0231-power-of-two) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/rajsharma-cse/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/rajsharma-cse/DSA/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/rajsharma-cse/DSA/tree/master/0085-maximal-rectangle) |
 | [0198-house-robber](https://github.com/rajsharma-cse/DSA/tree/master/0198-house-robber) |
@@ -234,4 +236,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/rajsharma-cse/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/rajsharma-cse/DSA/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
