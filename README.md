@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/rajsharma-cse/DSA/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/rajsharma-cse/DSA/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/rajsharma-cse/DSA/tree/master/2226-maximum-candies-allocated-to-k-children) |
+| [2653-sliding-subarray-beauty](https://github.com/rajsharma-cse/DSA/tree/master/2653-sliding-subarray-beauty) |
 ## Binary Search
 |  |
 | ------- |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/rajsharma-cse/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/rajsharma-cse/DSA/tree/master/1248-count-number-of-nice-subarrays) |
+| [2653-sliding-subarray-beauty](https://github.com/rajsharma-cse/DSA/tree/master/2653-sliding-subarray-beauty) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/rajsharma-cse/DSA/tree/master/0239-sliding-window-maximum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/rajsharma-cse/DSA/tree/master/1248-count-number-of-nice-subarrays) |
+| [2653-sliding-subarray-beauty](https://github.com/rajsharma-cse/DSA/tree/master/2653-sliding-subarray-beauty) |
 ## Divide and Conquer
 |  |
 | ------- |
