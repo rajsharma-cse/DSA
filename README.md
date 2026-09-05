@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/rajsharma-cse/DSA/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/rajsharma-cse/DSA/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/rajsharma-cse/DSA/tree/master/2226-maximum-candies-allocated-to-k-children) |
+| [2270-number-of-ways-to-split-array](https://github.com/rajsharma-cse/DSA/tree/master/2270-number-of-ways-to-split-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/rajsharma-cse/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2653-sliding-subarray-beauty](https://github.com/rajsharma-cse/DSA/tree/master/2653-sliding-subarray-beauty) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/rajsharma-cse/DSA/tree/master/2799-count-complete-subarrays-in-an-array) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/rajsharma-cse/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/rajsharma-cse/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/rajsharma-cse/DSA/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [2270-number-of-ways-to-split-array](https://github.com/rajsharma-cse/DSA/tree/master/2270-number-of-ways-to-split-array) |
 ## Math
 |  |
 | ------- |
