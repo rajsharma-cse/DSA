@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/rajsharma-cse/DSA/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rajsharma-cse/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/rajsharma-cse/DSA/tree/master/0300-longest-increasing-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/rajsharma-cse/DSA/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/rajsharma-cse/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/rajsharma-cse/DSA/tree/master/0704-binary-search) |
 | [0746-min-cost-climbing-stairs](https://github.com/rajsharma-cse/DSA/tree/master/0746-min-cost-climbing-stairs) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rajsharma-cse/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rajsharma-cse/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/rajsharma-cse/DSA/tree/master/0300-longest-increasing-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/rajsharma-cse/DSA/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/rajsharma-cse/DSA/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/rajsharma-cse/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/rajsharma-cse/DSA/tree/master/0875-koko-eating-bananas) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/rajsharma-cse/DSA/tree/master/0238-product-of-array-except-self) |
+| [0410-split-array-largest-sum](https://github.com/rajsharma-cse/DSA/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/rajsharma-cse/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/rajsharma-cse/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/rajsharma-cse/DSA/tree/master/1248-count-number-of-nice-subarrays) |
@@ -130,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rajsharma-cse/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/rajsharma-cse/DSA/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/rajsharma-cse/DSA/tree/master/0300-longest-increasing-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/rajsharma-cse/DSA/tree/master/0410-split-array-largest-sum) |
 | [0746-min-cost-climbing-stairs](https://github.com/rajsharma-cse/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [1143-longest-common-subsequence](https://github.com/rajsharma-cse/DSA/tree/master/1143-longest-common-subsequence) |
 ## Memoization
@@ -270,4 +274,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/rajsharma-cse/DSA/tree/master/0062-unique-paths) |
+## Greedy
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/rajsharma-cse/DSA/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->
