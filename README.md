@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/rajsharma-cse/DSA/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/rajsharma-cse/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/rajsharma-cse/DSA/tree/master/1248-count-number-of-nice-subarrays) |
+| [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/rajsharma-cse/DSA/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/rajsharma-cse/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2653-sliding-subarray-beauty](https://github.com/rajsharma-cse/DSA/tree/master/2653-sliding-subarray-beauty) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/rajsharma-cse/DSA/tree/master/2799-count-complete-subarrays-in-an-array) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/rajsharma-cse/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/rajsharma-cse/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/rajsharma-cse/DSA/tree/master/1248-count-number-of-nice-subarrays) |
+| [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/rajsharma-cse/DSA/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 ## Math
 |  |
 | ------- |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/rajsharma-cse/DSA/tree/master/0231-power-of-two) |
+| [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/rajsharma-cse/DSA/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 ## Recursion
 |  |
 | ------- |
@@ -211,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rajsharma-cse/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1143-longest-common-subsequence](https://github.com/rajsharma-cse/DSA/tree/master/1143-longest-common-subsequence) |
+| [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/rajsharma-cse/DSA/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 ## Longest Common Subsequence
 |  |
 | ------- |
