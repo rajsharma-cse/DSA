@@ -1,39 +1,29 @@
 class Solution {
-    public boolean possible(int[] arr,int m, int k,int mid){
-        int bk=0;
-        int fl=0;
-        for(int i=0;i<arr.length;i++){
-            if(arr[i]<=mid){
-                fl++;
-                if(fl==k){
-                    bk++;
-                    fl=0;
-                } 
-            }else{
-                fl=0;
-            }
+    public boolean helper(int[] arr, int day,int m,int k){
+        int bokey=0;
+        int flw=0;
+        for(int ele:arr){
+            if(ele<=day){
+                flw++;
+                if(flw==k){
+                    bokey++;
+                    flw=0;
+                }
+            }else flw=0;
         }
-        return bk>=m;
-        
+        return bokey>=m;
     }
-    public int minDays(int[] arr, int m, int k) {
-        if(arr.length < m*k) return -1;
-        int n=arr.length;
-        int low=Integer.MAX_VALUE,high=0;
-        for(int ele:arr) {
-            high=Math.max(ele,high);
-            low=Math.min(low,ele);
-        }
-        int ans=-1;
+    public int minDays(int[] bloomDay, int m, int k) {
+        int low=1,high=0;
+        for(int ele:bloomDay) high=Math.max(ele,high);
 
+        int ans=-1;
         while(low<=high){
             int mid=low+(high-low)/2;
-            if(possible(arr,m,k,mid)){
+            if(helper(bloomDay,mid,m,k)){
                 ans=mid;
                 high=mid-1;
-            }else{
-                low=mid+1;
-            }
+            }else low=mid+1;
         }
         return ans;
     }
