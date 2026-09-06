@@ -10,13 +10,19 @@
 class Solution {
     TreeNode ans=null;
     public int fun(TreeNode root,TreeNode p,TreeNode q){
+        // if(ans!=null) return 0;
         if(root == null) return 0;
-        int left = fun(root.left,p,q);
-        int right = fun(root.right,p,q);
+        int left=fun(root.left,p,q);
+        int right=fun(root.right,p,q);
         int self=0;
-        if(root==p || root==q) self=1;
+        if(root==p||root==q){
+            self=1;
+        }
         int total=left+right+self;
-        if( total == 2 && ans==null) ans=root;
+        if(total==2){
+            ans=root;
+            return 0;
+        }
         return total;
     }
     public TreeNode lowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {
