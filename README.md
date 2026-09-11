@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rajsharma-cse/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/rajsharma-cse/DSA/tree/master/0130-surrounded-regions) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rajsharma-cse/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0189-rotate-array](https://github.com/rajsharma-cse/DSA/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/rajsharma-cse/DSA/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/rajsharma-cse/DSA/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rajsharma-cse/DSA/tree/master/0215-kth-largest-element-in-an-array) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/rajsharma-cse/DSA/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/rajsharma-cse/DSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/rajsharma-cse/DSA/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/rajsharma-cse/DSA/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/rajsharma-cse/DSA/tree/master/0231-power-of-two) |
 | [1248-count-number-of-nice-subarrays](https://github.com/rajsharma-cse/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 ## Sliding Window
@@ -282,5 +284,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/rajsharma-cse/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/rajsharma-cse/DSA/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
